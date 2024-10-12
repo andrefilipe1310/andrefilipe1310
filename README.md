@@ -20,7 +20,7 @@ Desenvolvi um MVP de marketplace para o setor agropecuário com uma equipe de 6 
 - Backend em TypeScript com API REST
 - Autenticação JWT e Prisma ORM para o banco de dados
 
-[Veja o projeto]([#](https://github.com/AyrtonF/Projeto-FalaAgro))
+[Veja o projeto](https://github.com/AyrtonF/Projeto-FalaAgro)
 
 ### 2. **E-commerce**
 Um sistema de e-commerce com Next.js e integração com Stripe:
