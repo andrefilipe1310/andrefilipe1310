@@ -5,7 +5,7 @@ Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas solu�
 ## 🚀 **Minhas Habilidades**
 
 - **Java** | **Spring Boot** | **APIs REST**
-- **TypeScript** | **React** | **Next.js**
+- **TypeScript** | **React** | **Angular**
 - **Banco de Dados**: SQL | Prisma ORM
 - **Autenticação**: JWT 
 - **Controle de Versão**: Git | GitHub
