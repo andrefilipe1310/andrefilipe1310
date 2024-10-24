@@ -35,7 +35,15 @@ Sistema de controle de presença com foco em frequência semanal, utilizando:
 - Arquitetura RESTful
 - Integração com banco de dados SQL para gestão das faltas
 
-[Veja o projeto]((https://github.com/andrefilipe1310/attendance-system)
+[Veja o projeto](https://github.com/andrefilipe1310/attendance-system)
+
+### 4. **Sistema para gerenciamento de estudos clínicos**
+Sistema para conectar pacientes a estudos clínicos através de médicos, utilizando:
+- Spring Boot no backend
+- Arquitetura RESTful
+- Integração com banco de dados Postgres
+
+[Veja o projeto](https://github.com/andrefilipe1310/inovamed-)
 
 ## 📫 **Entre em Contato**
 
