@@ -13,9 +13,12 @@ Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas solu�
 ## 💻 **Projetos**
 ### 1. **Sistema para gerenciamento de estudos clínicos**
 Sistema para conectar pacientes a estudos clínicos através de médicos, utilizando:
+- React no frontend
 - Spring Boot no backend
 - Arquitetura RESTful
+- Autenticação JWT
 - Integração com banco de dados Postgres
+- Aplicação em conteiner docker
 
 [Veja o projeto](https://github.com/andrefilipe1310/inovamed-)
 
