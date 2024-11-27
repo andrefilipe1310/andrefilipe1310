@@ -11,10 +11,16 @@ Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas solu�
 - **Controle de Versão**: Git | GitHub
 
 ## 💻 **Projetos**
+### 1. **Sistema para gerenciamento de estudos clínicos**
+Sistema para conectar pacientes a estudos clínicos através de médicos, utilizando:
+- Spring Boot no backend
+- Arquitetura RESTful
+- Integração com banco de dados Postgres
+
+[Veja o projeto](https://github.com/andrefilipe1310/inovamed-)
 
 
-
-### 1. **Marketplace MVP - FalaAgro**
+### 2. **Marketplace MVP - FalaAgro**
 Desenvolvi um MVP de marketplace para o setor agropecuário com uma equipe de 6 pessoas:
 - Frontend em React.js
 - Backend em TypeScript com API REST
@@ -22,13 +28,6 @@ Desenvolvi um MVP de marketplace para o setor agropecuário com uma equipe de 6 
 
 [Veja o projeto](https://github.com/AyrtonF/Projeto-FalaAgro)
 
-### 2. **E-commerce**
-Um sistema de e-commerce com Next.js e integração com Stripe:
-- Autenticação via Clerk
-- Persistência de dados com Prisma ORM
-- Processamento de pagamentos com Stripe API
-
-[Veja o projeto](https://github.com/andrefilipe1310/axel-commerce)
 ### 3. **Sistema de Presença Acadêmico**
 Sistema de controle de presença com foco em frequência semanal, utilizando:
 - Spring Boot no backend
@@ -37,13 +36,14 @@ Sistema de controle de presença com foco em frequência semanal, utilizando:
 
 [Veja o projeto](https://github.com/andrefilipe1310/attendance-system)
 
-### 4. **Sistema para gerenciamento de estudos clínicos**
-Sistema para conectar pacientes a estudos clínicos através de médicos, utilizando:
-- Spring Boot no backend
-- Arquitetura RESTful
-- Integração com banco de dados Postgres
+### 4. **E-commerce**
+Um sistema de e-commerce com Next.js e integração com Stripe:
+- Autenticação via Clerk
+- Persistência de dados com Prisma ORM
+- Processamento de pagamentos com Stripe API
 
-[Veja o projeto](https://github.com/andrefilipe1310/inovamed-)
+[Veja o projeto](https://github.com/andrefilipe1310/axel-commerce)
+
 
 ## 📫 **Entre em Contato**
 
