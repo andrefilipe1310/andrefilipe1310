@@ -19,6 +19,7 @@ Sistema para conectar pacientes a estudos clínicos através de médicos, utiliz
 - Spring Boot no backend
 - Arquitetura RESTful
 - Autenticação JWT
+- Testes unitarios com JUnit e Mockito
 - Integração com banco de dados Postgres
 - Aplicação em conteiner docker
 
@@ -30,12 +31,15 @@ Desenvolvi um MVP de marketplace para o setor agropecuário com uma equipe de 6 
 - Frontend em React.js
 - Backend em TypeScript com API REST
 - Autenticação JWT e Prisma ORM para o banco de dados
+- Aplicação em conteiner docker
+- Conceitos de SOLID
 
 [Veja o projeto](https://github.com/AyrtonF/Projeto-FalaAgro)
 
 ### 3. **Sistema de Presença Acadêmico**
 Sistema de controle de presença com foco em frequência semanal, utilizando:
 - Spring Boot no backend
+- Angular com Ionic no frontend
 - Arquitetura RESTful
 - Integração com banco de dados SQL para gestão das faltas
 
