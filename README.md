@@ -8,7 +8,8 @@ Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas solu�
 - **TypeScript** | **React** | **Angular**
 - **Banco de Dados**: PostgreSQL | MySQL | MongoDB | Prisma ORM
 - **Virtualização**: Docker
-- **Autenticação**: JWT 
+- **Autenticação**: JWT
+- **Testes**: JUnit | Mockito
 - **Controle de Versão**: Git | GitHub
 
 ## 💻 **Projetos**
