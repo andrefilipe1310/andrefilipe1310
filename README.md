@@ -40,8 +40,9 @@ Desenvolvi um MVP de marketplace para o setor agropecuário com uma equipe de 6 
 Sistema de controle de presença com foco em frequência semanal, utilizando:
 - Spring Boot no backend
 - Angular com Ionic no frontend
+- OpenCV para reconhecimento facial
 - Arquitetura RESTful
-- Integração com banco de dados SQL para gestão das faltas
+- Integração com banco de dados Postgres para gestão das faltas
 
 [Veja o projeto](https://github.com/andrefilipe1310/attendance-system)
 
