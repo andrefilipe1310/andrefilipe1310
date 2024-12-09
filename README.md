@@ -1,6 +1,6 @@
 # Olá, eu sou o André Filipe! 👋
 
-Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas soluções e aprimorando minhas habilidades. Tenho experiência em diversos projetos freelancer e acadêmicos, focado em tecnologias modernas como **Java**, **Spring Boot**, **TypeScript** e **React**.
+Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas soluções e aprimorando minhas habilidades. Tenho experiência em diversos projetos freelancer e acadêmicos, focado em tecnologias modernas como **Java**, **Spring Boot**, **TypeScript**, **Angular** e **React**.
 
 ## 🚀 **Minhas Habilidades**
 
