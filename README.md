@@ -6,6 +6,7 @@ Sou desenvolvedor backend apaixonado por tecnologia, sempre buscando novas solu�
 
 - **Java** | **Spring Boot** | **APIs REST**
 - **TypeScript** | **React** | **Angular**
+- **Marcação e estilização**: HTML | CSS | Bootstrap
 - **Banco de Dados**: PostgreSQL | MySQL | MongoDB | Prisma ORM
 - **Virtualização**: Docker
 - **Autenticação**: JWT
